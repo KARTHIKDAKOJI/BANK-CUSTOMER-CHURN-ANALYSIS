@@ -58,7 +58,7 @@ Action: Rework credit card offers and reduce extra charges.
 Female customers show higher churn in most regions.
 Action: Study needs/preferences and improve communication and services for female customers.
 
-📌 sUMMARY:
+📌 SUMMARY:
 Churn is driven by geography, satisfaction, tenure, age, loyalty points, and gender. Banks should focus on at-risk groups like new customers, older age groups, and specific regions (e.g., Germany) to reduce churn effectively.
 
 📁 Dataset Source: Kaggle
