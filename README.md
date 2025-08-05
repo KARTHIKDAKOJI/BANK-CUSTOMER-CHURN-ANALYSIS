@@ -19,7 +19,7 @@ Churned Customers: 20.38%
 
 Loyal Customers: 79.62%
 
-#📍 Key Insights from SQL Queries
+# 📍 Key Insights from SQL Queries
 
 ✅ Q1. Churn by Geography
 Germany has the highest churn rate.
